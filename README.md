@@ -15,13 +15,13 @@ Ensure you have Python installed on your system (preferably Python 3.x) with the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/email-domain-counter.git
+   git clone https://github.com/your-username/database-email-domain-counter.git
    ```
 
 2. Run the script:
 
    ```bash
-   python email_counter.py
+   python main.py
    ```
 
    If the default input file `mbox.txt` is not present in the same directory as the script, you will be prompted to enter the file name.
