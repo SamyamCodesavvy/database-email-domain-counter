@@ -2,7 +2,7 @@ Certainly! Here's a sample README.md file for your GitHub repository:
 
 ---
 
-# Email Domain Counter
+#Email Domain Counter
 
 This Python script `main.py` is designed to read through an email data file, extract email domains, and count their occurrences in order to identify the top 10 most frequent email domains.
 
